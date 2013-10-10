@@ -1,0 +1,5 @@
+[main] DEBUG com.bizruntime.Client 10/10/2013 15:03:10 – This is debug message
+[main] INFO  com.bizruntime.Client 10/10/2013 15:03:10 – This is info message
+[main] WARN  com.bizruntime.Client 10/10/2013 15:03:10 – This is warn message
+[main] FATAL com.bizruntime.Client 10/10/2013 15:03:10 – This is fatal message
+[main] ERROR com.bizruntime.Client 10/10/2013 15:03:10 – This is error message
